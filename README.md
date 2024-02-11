@@ -18,19 +18,20 @@
 <a href="https://github.com/muhammad-fiaz/MaaagicUI/actions/workflows/release.yml"><img src="https://github.com/muhammad-fiaz/MaaagicUI/actions/workflows/release.yml/badge.svg" alt="Release"></a>
 
 <a href="https://github.com/muhammad-fiaz/MaaagicUI/"><img src="https://badges.strrl.dev/visits/muhammad-fiaz/MaaagicUI" alt="Visits Badge"></a>
-[![Sponsor](https://img.shields.io/static/v1?label=Sponsor&message=muhammad-fiaz&logo=github&color=white)](https://github.com/sponsors/muhammad-fiaz)
 
-   <br>
+
   <img src="https://img.shields.io/badge/rust-%23000000.svg?style=for-the-badge&logo=rust&logoColor=white" alt="Rust">
   <img src="https://img.shields.io/badge/tauri-%2324C8DB.svg?style=for-the-badge&logo=tauri&logoColor=%23FFFFFF" alt="Tauri">
   <img src="https://img.shields.io/badge/typescript-%23007ACC.svg?style=for-the-badge&logo=typescript&logoColor=white" alt="TypeScript">
   <img src="https://img.shields.io/badge/Next-black?style=for-the-badge&logo=next.js&logoColor=white" alt="Next JS">
     <br>
+    <a href="https://github.com/sponsors/muhammad-fiaz"><img src="https://img.shields.io/badge/sponsor-30363D?style=for-the-badge&logo=GitHub-Sponsors&logoColor=#EA4AAA" alt="Github-sponsors"></a>
+    <br>
     <br>
 </div>
 
 
-Maaagic UI is an all-in-one solution for building modern and feature-rich applications. It harnesses Next.js for seamless server-side rendering and Tauri for integrating GUI for Large Language Models and stable diffusions that operate natively on Windows, Linux, and MacOS. This UI empowers developers to craft intuitive and efficient user interfaces. Leveraging various large language models, Maaagic UI ensures exceptional performance and flexibility for diverse application needs. Get started with Maaagic UI today and unlock endless possibilities for your AI Models.
+**Maaagic UI** is an all-in-one solution for building modern and feature-rich applications. It harnesses Next.js for seamless server-side rendering and Tauri for integrating GUI for Large Language Models and stable diffusions that operate natively on Windows, Linux, and MacOS. This UI empowers developers to craft intuitive and efficient user interfaces. Leveraging various large language models, **Maaagic UI** ensures exceptional **performance** and **flexibility** for diverse application needs. Get started with Maaagic UI today and unlock endless possibilities for your AI Models.
 
 ## Table of Contents
 
