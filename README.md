@@ -1,4 +1,29 @@
-# Maaagic UI
+<p align="center">
+  <img src="https://github.com/muhammad-fiaz/MaaagicUI/assets/75434191/4fa95721-7161-4f88-8056-cba5e9fe647d" alt="Maaagic UI Logo">
+</p>
+
+<h1 align="center">Maaagic UI</h1>
+
+<div align="center">
+  <img src="https://img.shields.io/github/last-commit/muhammad-fiaz/MaaagicUI" alt="Last Updated">
+  <img src="https://img.shields.io/github/license/muhammad-fiaz/MaaagicUI" alt="License">
+  <img src="https://img.shields.io/github/v/release/muhammad-fiaz/MaaagicUI" alt="Release">
+  <img src="https://img.shields.io/github/contributors/muhammad-fiaz/MaaagicUI" alt="Contributors">
+  <img src="https://img.shields.io/github/issues/muhammad-fiaz/MaaagicUI" alt="Issues">
+  <img src="https://img.shields.io/github/stars/muhammad-fiaz/MaaagicUI" alt="Stars">
+  <img src="https://img.shields.io/github/languages/count/muhammad-fiaz/MaaagicUI" alt="Languages Count">
+  <img src="https://img.shields.io/github/languages/code-size/muhammad-fiaz/MaaagicUI" alt="Code Size">
+  <img src="https://img.shields.io/github/commit-activity/m/muhammad-fiaz/MaaagicUI" alt="Commit Activity">
+    <br>
+    <br>
+  <img src="https://img.shields.io/badge/rust-%23000000.svg?style=for-the-badge&logo=rust&logoColor=white" alt="Rust">
+  <img src="https://img.shields.io/badge/tauri-%2324C8DB.svg?style=for-the-badge&logo=tauri&logoColor=%23FFFFFF" alt="Tauri">
+  <img src="https://img.shields.io/badge/typescript-%23007ACC.svg?style=for-the-badge&logo=typescript&logoColor=white" alt="TypeScript">
+  <img src="https://img.shields.io/badge/Next-black?style=for-the-badge&logo=next.js&logoColor=white" alt="Next JS">
+    <br>
+    <br>
+</div>
+
 
 Maaagic UI is an all-in-one solution for building modern and feature-rich applications. With Next.js for seamless server-side rendering and Tauri for Large Language Models and stable diffusion like AI Based Applications, this UI empowers developers to create intuitive and efficient user interfaces. Leveraging various large language models, Maaagic UI ensures exceptional performance and flexibility for diverse application needs. Get started with Maaagic UI today and unlock endless possibilities for your projects.
 
