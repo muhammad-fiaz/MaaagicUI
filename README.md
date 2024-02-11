@@ -18,7 +18,7 @@
 <a href="https://github.com/muhammad-fiaz/MaaagicUI/actions/workflows/release.yml"><img src="https://github.com/muhammad-fiaz/MaaagicUI/actions/workflows/release.yml/badge.svg" alt="Release"></a>
 
 <a href="https://github.com/muhammad-fiaz/MaaagicUI/"><img src="https://badges.strrl.dev/visits/muhammad-fiaz/MaaagicUI" alt="Visits Badge"></a>
-[![Sponsor muhammad-fiaz](https://img.shields.io/static/v1?label=Sponsor&message=muhammad-fiaz&logo=github&color=white)](https://github.com/sponsors/muhammad-fiaz)
+[![Sponsor](https://img.shields.io/static/v1?label=Sponsor&message=muhammad-fiaz&logo=github&color=white)](https://github.com/sponsors/muhammad-fiaz)
 
    <br>
   <img src="https://img.shields.io/badge/rust-%23000000.svg?style=for-the-badge&logo=rust&logoColor=white" alt="Rust">
@@ -28,7 +28,6 @@
     <br>
     <br>
 </div>
-
 
 
 Maaagic UI is an all-in-one solution for building modern and feature-rich applications. It harnesses Next.js for seamless server-side rendering and Tauri for integrating GUI for Large Language Models and stable diffusions that operate natively on Windows, Linux, and MacOS. This UI empowers developers to craft intuitive and efficient user interfaces. Leveraging various large language models, Maaagic UI ensures exceptional performance and flexibility for diverse application needs. Get started with Maaagic UI today and unlock endless possibilities for your AI Models.
@@ -46,10 +45,10 @@ Maaagic UI is an all-in-one solution for building modern and feature-rich applic
     - [Contributing](#contributing)
     - [Code of Conduct](#code-of-conduct)
     - [Support and Thanks](#support-and-thanks)
-        - [Star the Project](https://github.com/muhammad-fiaz/MaaagicUI#star-the-project)
-        - [Contribute](https://github.com/muhammad-fiaz/MaaagicUI#contribute)
-        - [Fork the Project](https://github.com/muhammad-fiaz/MaaagicUI#fork-the-project)
-        - [Sponsor on GitHub](https://github.com/muhammad-fiaz/MaaagicUI#sponsor-on-github)
+        - [Star the Project](#star-the-project)
+        - [Contribute](#contribute)
+        - [Fork the Project](#fork-the-project)
+        - [Sponsor on GitHub](#sponsor-on-github)
 
 ## Getting Started
 
@@ -60,11 +59,11 @@ gh repo clone https://github.com/muhammad-fiaz/MaaagicUI.git
 cd MaaagicUI
 ```
 
-
+then, get start development server by:
 ```bash
 npm i
-npm tauri dev
-npm tauri build
+npm run tauri:dev
+npm run tauri:build
 ```
 
 
