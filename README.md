@@ -14,8 +14,13 @@
   <img src="https://img.shields.io/github/languages/count/muhammad-fiaz/MaaagicUI" alt="Languages Count">
   <img src="https://img.shields.io/github/languages/code-size/muhammad-fiaz/MaaagicUI" alt="Code Size">
   <img src="https://img.shields.io/github/commit-activity/m/muhammad-fiaz/MaaagicUI" alt="Commit Activity">
-    <br>
-    <br>
+  <a href="https://github.com/muhammad-fiaz/MaaagicUI/actions/workflows/github-code-scanning/codeql"><img src="https://github.com/muhammad-fiaz/MaaagicUI/actions/workflows/github-code-scanning/codeql/badge.svg" alt="CodeQL"></a>
+<a href="https://github.com/muhammad-fiaz/MaaagicUI/actions/workflows/release.yml"><img src="https://github.com/muhammad-fiaz/MaaagicUI/actions/workflows/release.yml/badge.svg" alt="Release"></a>
+
+<a href="https://github.com/muhammad-fiaz/MaaagicUI/"><img src="https://badges.strrl.dev/visits/muhammad-fiaz/MaaagicUI" alt="Visits Badge"></a>
+
+   <br>
+  <br>
   <img src="https://img.shields.io/badge/rust-%23000000.svg?style=for-the-badge&logo=rust&logoColor=white" alt="Rust">
   <img src="https://img.shields.io/badge/tauri-%2324C8DB.svg?style=for-the-badge&logo=tauri&logoColor=%23FFFFFF" alt="Tauri">
   <img src="https://img.shields.io/badge/typescript-%23007ACC.svg?style=for-the-badge&logo=typescript&logoColor=white" alt="TypeScript">
