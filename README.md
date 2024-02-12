@@ -38,7 +38,7 @@
 - [Maaagic UI](#maaagic-ui)
     - [Getting Started](#getting-started)
     - [Features](#features)
-    - [Requirements Used](#requirements-used)
+    - [Stacks Used](#stacks-used)
     - [Customization](#customization)
     - [Folder Structure](#folder-structure)
     - [Recommended IDE Setup](#recommended-ide-setup)
@@ -84,7 +84,7 @@ npm run tauri:build
 - Customizable theme
 
 
-## Stack Used
+## Stacks Used
 
 - [Node.js](https://nodejs.org/en/) (v14 or later)
 - [npm](https://www.npmjs.com/) (v7 or later) or [pnpm](https://pnpm.io/) (v6 or later)
