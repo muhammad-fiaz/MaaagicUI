@@ -15,19 +15,19 @@ const examples = [
 
   {
     name: "Maaagic AI",
-    href: "/components/Maaagic_AI",
+    href: "/pages/Maaagic_AI",
   },
   {
     name: "Store",
-    href: "/components/Store",
+    href: "/pages/Store",
   },
   {
     name: "Settings",
-    href: "/components/settings",
+    href: "/pages/settings",
   },
   {
  name: "Model Management",
- href: "/components/model_management",
+ href: "/pages/model_management",
   }
 ]
 
@@ -35,7 +35,7 @@ interface ExamplesNavProps extends React.HTMLAttributes<HTMLDivElement> {}
 
 export function Topnav({ className, ...props }: ExamplesNavProps) {
   // eslint-disable-next-line react-hooks/rules-of-hooks
-  const pathname = usePathname() === "/" ? "/components/Maaagic_AI" : usePathname()
+  const pathname = usePathname() === "/" ? "/pages/Maaagic_AI" : usePathname()
 
   return (
     <MenubarMenu>

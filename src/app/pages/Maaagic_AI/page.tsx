@@ -1,4 +1,4 @@
-// Import necessary libraries and components
+// Import necessary libraries and pages
 "use client";
 import React, { useState, useEffect } from "react";
 import { IoMdPaperPlane } from "react-icons/io";

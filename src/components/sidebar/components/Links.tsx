@@ -23,7 +23,7 @@ export const SidebarLinks = (props: { routes: RoutesType[] }): JSX.Element => {
   const createLinks = (routes: RoutesType[]) => {
     return routes.map((route, index) => {
       if (
-        route.layout === '/components'
+        route.layout === '/pages'
       ) {
         return (
           <NavLink key={index} href={route.layout + '/' + route.path}>

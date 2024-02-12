@@ -2,7 +2,7 @@ import { Metadata } from "next"
 import Image from "next/image"
 
 import { Separator } from "@/components/ui/separator"
-import { SidebarNav } from "@/app/components/settings/components/sidebar-nav"
+import { SidebarNav } from "@/app/pages/settings/components/sidebar-nav"
 import React from "react";
 
 export const metadata: Metadata = {
@@ -13,23 +13,23 @@ export const metadata: Metadata = {
 const sidebarNavItems = [
   {
     title: "Profile",
-    href: "/components/settings",
+    href: "/pages/settings",
   },
   {
     title: "Account",
-    href: "/components/settings/account",
+    href: "/pages/settings/account",
   },
   {
     title: "Appearance",
-    href: "/components/settings/appearance",
+    href: "/pages/settings/appearance",
   },
   {
     title: "Notifications",
-    href: "/components/settings/notifications",
+    href: "/pages/settings/notifications",
   },
   {
     title: "Display",
-    href: "/components/settings/display",
+    href: "/pages/settings/display",
   },
 ]
 

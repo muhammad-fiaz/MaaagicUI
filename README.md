@@ -84,7 +84,7 @@ npm run tauri:build
 - Customizable theme
 
 
-## Requirements Used
+## Stack Used
 
 - [Node.js](https://nodejs.org/en/) (v14 or later)
 - [npm](https://www.npmjs.com/) (v7 or later) or [pnpm](https://pnpm.io/) (v6 or later)
@@ -109,6 +109,9 @@ npm run tauri:build
 - [pipenv](https://pypi.org/project/pipenv/) (v2021.5 or later)
 - [Flask](https://flask.palletsprojects.com/) (v2.0 or later) or [FastAPI](https://fastapi.tiangolo.com/) (v0.68 or later)
 - [Scss](https://sass-lang.com/) (v1.37 or later)
+- [PostCSS](https://postcss.org/) (v8.3 or later)
+- [Lottie](https://lottiefiles.com/) (v5.7 or later)
+
 
 ## Customization
 

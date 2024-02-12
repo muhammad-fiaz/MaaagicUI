@@ -1,6 +1,11 @@
-import MaaagicAI from "@/app/components/Maaagic_AI/page";
+"use client";
+
+import SplashScreen from '@/components/splash/SplashScreen';
 
 export default function App() {
 
-  return <MaaagicAI/>
+
+    return (
+     <SplashScreen/>
+    );
 }

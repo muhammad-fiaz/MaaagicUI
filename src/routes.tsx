@@ -14,51 +14,51 @@ import {
 const routes = [
   {
     name: 'Maaagic AI',
-    layout: '/components',
+    layout: '/pages',
     path: '/Maaagic_AI',
     icon: <MdHome className="h-6 w-6" />,
   },
 
   {
     name: 'Image to Image',
-    layout: '/components',
+    layout: '/pages',
     path: '/Image_To_Image',
     icon: <MdImage className="h-6 w-6" />,
 
   },
   {
     name: 'Text to Image',
-    layout: '/components',
+    layout: '/pages',
     path: '/Text_To_Images',
     icon: <MdEditSquare className="h-6 w-6" />,
   },
   {
     name: 'Workflow Editor',
-    layout: '/components',
+    layout: '/pages',
     path: '/Workflow_Editor',
     icon: <MdWorkspaces className="h-6 w-6" />,
   },
   {
     name: 'Canvas',
-    layout: '/components',
+    layout: '/pages',
     path: '/Canvas',
     icon: <MdFormatPaint className="h-6 w-6" />,
   },
   {
     name: 'Video Maker',
-    layout: '/components',
+    layout: '/pages',
     path: '/Video_Maker',
     icon: <MdVideoFile className="h-6 w-6" />,
   },
   {
     name: 'Model Management',
-    layout: '/components',
+    layout: '/pages',
     path: '/Model_Management',
     icon: <MdFileDownload className="h-6 w-6" />,
   },
   {
     name: 'Store',
-    layout: '/components',
+    layout: '/pages',
     path: '/Store',
     icon: <MdStore className="h-6 w-6" />,
   },
