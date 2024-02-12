@@ -1,4 +1,4 @@
-// Custom components
+// Custom pages
 function InputField(props: {
   id: string;
   label: string;

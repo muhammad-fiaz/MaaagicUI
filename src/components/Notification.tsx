@@ -1,4 +1,4 @@
-// components/Notification.tsx
+// pages/Notification.tsx
 
 import React, { useEffect, useState } from 'react';
 import { FontAwesomeIcon } from '@fortawesome/react-fontawesome';
