@@ -10,6 +10,7 @@
   <img src="https://img.shields.io/github/v/release/muhammad-fiaz/MaaagicUI" alt="Release">
   <img src="https://img.shields.io/github/contributors/muhammad-fiaz/MaaagicUI" alt="Contributors">
   <img src="https://img.shields.io/github/issues/muhammad-fiaz/MaaagicUI" alt="Issues">
+  <img src="https://img.shields.io/badge/pull%20requests-10%20open-green" alt="Pull Requests">
   <img src="https://img.shields.io/github/stars/muhammad-fiaz/MaaagicUI" alt="Stars">
   <img src="https://img.shields.io/github/languages/count/muhammad-fiaz/MaaagicUI" alt="Languages Count">
   <img src="https://img.shields.io/github/languages/code-size/muhammad-fiaz/MaaagicUI" alt="Code Size">
