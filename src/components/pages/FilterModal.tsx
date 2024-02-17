@@ -1,3 +1,4 @@
+"use client";
 import React, { useState } from 'react';
 import modelTypesData from '@/../modelTypes.json';
 import baseModelsData from '@/../baseModels.json';

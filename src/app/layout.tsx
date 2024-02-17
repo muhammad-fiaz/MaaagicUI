@@ -32,6 +32,7 @@ export default function MyApp({ children }: ExamplesLayoutProps) {
       <body className="overflow-clip bg-transparent font-sans antialiased scrollbar-none">
       <Theme>
 
+          <ThemeProvider attribute="class" defaultTheme="system" enableSystem>
 
 
 
@@ -41,7 +42,7 @@ export default function MyApp({ children }: ExamplesLayoutProps) {
                                   </div>
 
 
-
+</ThemeProvider>
       </Theme>
       <StyleSwitcher/>
 
