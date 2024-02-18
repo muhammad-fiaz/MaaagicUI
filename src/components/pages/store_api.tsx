@@ -5,6 +5,7 @@ import {Flex, Text, Button, Box, Tabs, ScrollArea, Heading} from '@radix-ui/them
 import {Input} from "@chakra-ui/react";
 import {MdInfo} from "react-icons/md";
 import FilterModal from "@/components/pages/FilterModal";
+import { Player } from '@lottiefiles/react-lottie-player';
 
 interface Item {
     id: number;
@@ -96,14 +97,20 @@ const Store_API: React.FC = () => {
     const [isModalOpen, setIsModalOpen] = useState(false);
     const [selectedModel, setSelectedModel] = useState<Item | null>(null);
     const [isFilterModalOpen, setIsFilterModalOpen] = useState(false);
+    const [isLoading, setIsLoading] = useState(true);
+    const [isError, setIsError] = useState(false);
 
     useEffect(() => {
         const fetchData = async () => {
             try {
                 const responseData = await getData();
                 setData(responseData);
+                setIsLoading(false);
+
             } catch (error: any) {
                 console.error(error.message);
+                setIsError(true);
+                setIsLoading(false);
             }
         };
 
@@ -156,6 +163,8 @@ const Store_API: React.FC = () => {
 
     return (
         <main>
+
+
             <div className="w-full">
                 <div className="grid grid-cols-2 md:grid-cols-2 gap-4 container mx-auto p-4 justify-between">
                     <Flex align="center" gap="3">
@@ -172,7 +181,24 @@ const Store_API: React.FC = () => {
                         <MdInfo className="text-primary text-2xl" />
                     </Flex>
                 </div>
+                {isLoading && (
+                    <Player
+                        autoplay
+                        loop
+                        src='/lottie/loading2.json'
+                        style={{ height: '300px', width: '300px', display: 'flex', alignItems: 'center', justifyContent: 'center' }}
+                    />
+                )}
+                {isError && (
+                    <Player
+                        autoplay
+                        loop
+                        src='/lottie/boat_not_found.json'
+                        style={{ height: '300px', width: '300px' }}
+                    />
+                )}
                 <div className="grid grid-cols-2 md:grid-cols-3 gap-4 container mx-auto p-4">
+
 
                     {data?.items.map((item) => (
                         <div key={item.id} className="mb-10" onClick={() => handleModelClick(item)}>

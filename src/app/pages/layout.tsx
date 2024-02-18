@@ -16,6 +16,7 @@ interface ExamplesLayoutProps {
 export default function ExamplesLayout({ children }: ExamplesLayoutProps) {
   const [open, setOpen] = useState(false);
   const pathname = usePathname();
+
   return <div>
       <div className="h-screen overflow-clip">
         <Menu/>
