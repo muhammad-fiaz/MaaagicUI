@@ -18,6 +18,7 @@ import {getActiveNavbar, getActiveRoute} from "@/utils/navigation";
 import Footer from "@/components/footer/Footer";
 import '@radix-ui/themes/styles.css';
 import {Theme} from "@radix-ui/themes";
+import { Providers } from './providers'
 
 interface ExamplesLayoutProps {
   children: React.ReactNode
@@ -33,7 +34,7 @@ export default function MyApp({ children }: ExamplesLayoutProps) {
       <Theme>
 
           <ThemeProvider attribute="class" defaultTheme="system" enableSystem>
-
+              <Providers>
 
 
 
@@ -41,7 +42,7 @@ export default function MyApp({ children }: ExamplesLayoutProps) {
                                       {children}
                                   </div>
 
-
+              </Providers>
 </ThemeProvider>
       </Theme>
       <StyleSwitcher/>
