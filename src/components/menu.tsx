@@ -74,7 +74,7 @@ export function Menu({ menuItems = true }) {
                     <MenubarSeparator />
 
                     <MenubarItem onClick={closeWindow}>
-                      Quit Music <MenubarShortcut>⌘Q</MenubarShortcut>
+                      Quit <MenubarShortcut>⌘Q</MenubarShortcut>
                     </MenubarItem>
                   </MenubarContent>
 

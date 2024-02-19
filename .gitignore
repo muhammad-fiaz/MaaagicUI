@@ -37,3 +37,4 @@ next-env.d.ts
 /src-tauri/target/
 /maaagic/backend/civitai/.venv/
 /maaagic/backend/civitai/.idea/
+

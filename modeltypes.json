@@ -1,0 +1,18 @@
+{
+  "modelTypes": [
+    { "id": 1, "name": "AestheticGradient" },
+    { "id": 2, "name": "Checkpoint" },
+    { "id": 3, "name": "Controlnet" },
+    { "id": 4, "name": "Hypernetwork" },
+    { "id": 5, "name": "LORA" },
+    { "id": 6, "name": "LoCon" },
+    { "id": 7, "name": "MotionModule" },
+    { "id": 8, "name": "Other" },
+    { "id": 9, "name": "Poses" },
+    { "id": 10, "name": "TextualInversion" },
+    { "id": 11, "name": "Upscaler" },
+    { "id": 12, "name": "VAE" },
+    { "id": 13, "name": "Wildcards" },
+    { "id": 14, "name": "Workflows" }
+  ]
+}

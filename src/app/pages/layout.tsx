@@ -16,8 +16,8 @@ interface ExamplesLayoutProps {
 export default function ExamplesLayout({ children }: ExamplesLayoutProps) {
   const [open, setOpen] = useState(false);
   const pathname = usePathname();
+
   return <div>
-    <ThemeProvider attribute="class" defaultTheme="system" enableSystem>
       <div className="h-screen overflow-clip">
         <Menu/>
         <div className="flex h-full w-full bg-background-100 dark:bg-background-900">
@@ -52,6 +52,5 @@ export default function ExamplesLayout({ children }: ExamplesLayoutProps) {
           </div>
         </div>
       </div>
-    </ThemeProvider>
   </div>
 }
