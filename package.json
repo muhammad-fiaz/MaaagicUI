@@ -122,7 +122,7 @@
   },
   "devDependencies": {
     "@ianvs/prettier-plugin-sort-imports": "^4.1.1",
-    "@tauri-apps/cli": "2.0.0-alpha.10",
+    "@tauri-apps/cli": "2.0.0-beta.6",
     "@types/node": "^20.11.17",
     "@types/react": "^18.2.48",
     "@types/react-dom": "^18.2.19",
