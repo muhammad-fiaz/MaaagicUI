@@ -95,7 +95,7 @@
     "npm": "^10.4.0",
     "react": "^18.2.0",
     "react-apexcharts": "1.4.0",
-    "react-calendar": "^3.9.0",
+    "react-calendar": "^4.8.0",
     "react-custom-scrollbars-2": "^4.2.1",
     "react-day-picker": "^8.8.0",
     "react-dom": "^18.2.0",
