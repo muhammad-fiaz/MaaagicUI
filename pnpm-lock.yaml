@@ -312,8 +312,8 @@ dependencies:
     specifier: ^0.1.0
     version: 0.1.0(@tauri-apps/plugin-os@2.0.0-alpha.0)(@tauri-apps/plugin-window@2.0.0-alpha.0)(clsx@2.1.0)(react-dom@18.2.0)(react@18.2.0)(tailwind-merge@1.14.0)
   web-vitals:
-    specifier: ^2.1.4
-    version: 2.1.4
+    specifier: ^4.1.1
+    version: 4.1.1
   zod:
     specifier: ^3.22.4
     version: 3.22.4
@@ -17119,6 +17119,7 @@ packages:
 
   /rimraf@2.6.3:
     resolution: {integrity: sha512-mwqeW5XsA2qAejG46gYdENaxXjx9onRNCfn7L0duuP4hCuTIi/QO7PDK07KJfp1d+izWPrzEJDcSqBa0OZQriA==}
+    deprecated: Rimraf versions prior to v4 are no longer supported
     hasBin: true
     dependencies:
       glob: 7.2.3
@@ -18945,8 +18946,8 @@ packages:
     engines: {node: '>= 8'}
     dev: false
 
-  /web-vitals@2.1.4:
-    resolution: {integrity: sha512-sVWcwhU5mX6crfI5Vd2dC4qchyTqxV8URinzt25XqVh+bHEPGH4C3NPrNionCP7Obx59wrYEbNlw4Z8sjALzZg==}
+  /web-vitals@4.1.1:
+    resolution: {integrity: sha512-wW3cdBZ56Rc5Az8p1Pw6g1zHU7X8HPLigQjD5Z0ef3EG9SPo4iO7RxsiU87aH3xaaEw0if6Ven2s+zlNGiXYqw==}
     dev: false
 
   /webidl-conversions@3.0.1:
