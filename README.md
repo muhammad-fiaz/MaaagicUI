@@ -31,6 +31,8 @@
     <br>
 </div>
 
+> [!WARNING]
+> This project is no longer maintained or actively developed. Use at your own risk.
 
 **Maaagic UI** is an all-in-one solution for building modern and feature-rich applications. It harnesses Next.js for seamless server-side rendering and Tauri for integrating GUI for Large Language Models and stable diffusions that operate natively on Windows, Linux, and MacOS. This UI empowers developers to craft intuitive and efficient user interfaces. Leveraging various large language models, **Maaagic UI** ensures exceptional **performance** and **flexibility** for diverse application needs. Get started with Maaagic UI today and unlock endless possibilities for your AI Models.
 
